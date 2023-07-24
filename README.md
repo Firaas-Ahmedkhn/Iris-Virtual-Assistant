@@ -1,1 +1,1 @@
-# Iris-Virtual-Assistant
+This is Iris, your virtual assistant. He is programmed in Python. It allows users to interact with it through in speech text input. The virtual assistant can perform various tasks such as providing information from Wikipedia, opening websites like YouTube, LinkedIn, GitHub, and Spotify, telling the current time and date, providing weather information, and performing searches on YouTube, Google, and Spotify.
